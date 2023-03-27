@@ -1,10 +1,12 @@
-#include "main.h"
+ include "main.h"
 
-/**
- * _puts - prints a string to stdout
- * @str: pointer to the string to print
- */
-void _puts(char *str) 
+  /** 
+   * _puts - prints string
+   * 
+   * @str: input string 
+   * Return: no return
+   */
+   void _puts(char *str) 
   {
      while (*str != '\0' ) 
  {
