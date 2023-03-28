@@ -1,5 +1,3 @@
-es (13 sloc)  209 Bytes
-
 #include "main.h"
 /**
  * _puts - prints a string, followed by a new line, to stdout
